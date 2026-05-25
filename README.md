@@ -23,6 +23,14 @@ The system enforces hardware-based license activation, role-based access control
 
 ---
 
+## Demo Video
+
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo%20Video-red?logo=google-drive)](https://drive.google.com/file/d/1BsLxUcWbirgxV8gdCoOS8T03wFmxtDL6/view?usp=sharing)
+
+> 🎬 [Click here to watch the full demo on Google Drive](https://drive.google.com/file/d/1BsLxUcWbirgxV8gdCoOS8T03wFmxtDL6/view?usp=sharing)
+
+---
+
 ## Screenshots
 
 > UI is built with Qt Designer `.ui` files loaded dynamically at runtime via `QUiLoader`.
